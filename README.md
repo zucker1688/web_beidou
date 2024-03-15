@@ -7,8 +7,7 @@
 
 ## 在线预览
 
-https://geeeeeeeek.github.io/web_tool/
-
+https://zucker1688.github.io/web_beidou/
 
 ## 二次开发
 
